@@ -1917,6 +1917,28 @@
   added: 2018-06-15
   updated: 2023-10-27
 
+- name: 'Shogo: Mobile Armor Division'
+  originals:
+  - 'Shogo: Mobile Armor Division'
+  type: official
+  repo: 'https://github.com/haekb/ltel-shogo'
+  url: 'https://www.golem.de/9811/2181.html'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - LithTech
+  - DirectX
+  licenses:
+  - As-is
+  added: 2026-01-25
+  updated: 2026-01-25
+
 - name: Shrek 2 Remake
   originals:
   - Shrek 2
