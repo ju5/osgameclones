@@ -347,6 +347,23 @@
   added: 2025-11-08
   updated: 2025-11-08
 
+- name: Scroller
+  originals:
+  - Scroller
+  type: official
+  url: 'https://advsys.net/ken/download.htm#scroller'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: Early 1990s game, source code released on October 28, 2004.
+  added: 2026-02-07
+  updated: 2026-02-07
+  images:
+  - https://advsys.net/ken/scroller.png
+
 - name: SCSharp
   langs:
   - C#
