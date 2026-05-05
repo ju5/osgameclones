@@ -604,6 +604,30 @@
   video:
     youtube: dn4HIVJY4EM
 
+- name: Akhenaten
+  originals:
+  - Pharaoh
+  type: remake
+  repo: 'https://github.com/dalerank/Akhenaten'
+  url: 'https://dalerank.itch.io/akhenaten'
+  feed: 'https://dalerank.itch.io/akhenaten/devlog.rss'
+  development: very active
+  status: semi-playable
+  multiplayer:
+  - Competitive
+  content: commercial
+  langs:
+  - C++
+  - JavaScript
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  added: 2026-05-06
+  updated: 2026-05-06
+  images:
+  - 'https://img.itch.zone/aW1nLzEyODg5OTY0LnBuZw==/original/q6p6us.png'
+
 - name: Aklabeth
   licenses:
   - GPL2
