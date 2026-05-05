@@ -98,6 +98,20 @@
   - PlayStation
   - Windows
 
+- name: Rambo
+  external:
+    website: 'https://www.mobygames.com/game/23850/rambo-first-blood-part-ii/'
+    wikipedia: Rambo (1985 video game)
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Run and gun
+
 - name: Rampage
   external:
     website: 'https://www.mobygames.com/game/124/rampage/'
