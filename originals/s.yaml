@@ -783,6 +783,7 @@
 
 - name: SimCity
   external:
+    website: https://www.ea.com/games/simcity
     wikipedia: SimCity
   meta:
     genres:
