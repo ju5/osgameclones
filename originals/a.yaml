@@ -1058,6 +1058,18 @@
     genres:
     - Action
 
+- name: Ataxx
+  names:
+  - アタックス
+  external:
+    website: 'https://www.arcade-history.com/?n=ataxx&page=detail&id=141'
+    wikipedia: Ataxx
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Turn-Based Strategy
+
 - name: Athena Crisis
   external:
     website: 'https://athenacrisis.com/open-source'
