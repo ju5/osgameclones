@@ -3827,6 +3827,25 @@
   video:
     youtube: o5l2xr5BBq8
 
+- name: Ozymandias
+  originals:
+  - Pharaoh
+  type: remake
+  repo: 'https://github.com/Banderi/Ozymandias'
+  development: sporadic
+  status: unplayable
+  multiplayer:
+  - Competitive
+  content: commercial
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - As-is
+  added: 2026-05-06
+  updated: 2026-05-06
+
 - name: Ozymandias (Julius)
   originals:
   - Pharaoh
