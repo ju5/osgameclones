@@ -805,7 +805,7 @@
   type: remake
   repo: 'https://github.com/jnmartin84/wipeout-dc'
   feed: 'https://github.com/jnmartin84/wipeout-dc/releases.atom'
-  development: active
+  development: sporadic
   status: playable
   content: commercial
   langs:
