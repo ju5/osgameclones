@@ -222,8 +222,8 @@
   repo: 'https://github.com/harvestwhisperer/hm64-decomp'
   url: >-
     https://www.facebook.com/circleturnip/posts/-harvest-moon-64-has-been-fully-decompiled-the-classic-farming-game-harvest-moon/1639163810658062/
-  development: complete
-  status: playable
+  development: very active
+  status: unplayable
   content: commercial
   langs:
   - C
