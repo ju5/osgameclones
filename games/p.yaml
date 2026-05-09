@@ -1148,9 +1148,12 @@
   - Perfect Dark
   type: remake
   repo: 'https://gitlab.com/ryandwyer/perfect-dark'
+  url: https://ryandwyer.gitlab.io/pdstatus/
   feed: 'https://gitlab.com/ryandwyer/perfect-dark.atom'
-  development: sporadic
+  development: complete
   status: playable
+  platforms:
+  - N64
   multiplayer:
   - Competitive
   - Online
@@ -1160,7 +1163,7 @@
   licenses:
   - MIT
   added: 2025-11-29
-  updated: 2025-11-29
+  updated: 2026-05-10
 
 - name: Performous
   langs:
