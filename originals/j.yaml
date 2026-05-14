@@ -78,13 +78,23 @@
     - Shooter
 
 - name: Jawbreaker
-  names:
-  - Bubble Breaker
   external:
     website: 'https://www.mobygames.com/game/51492/jawbreaker/'
     wikipedia: Jawbreaker (video game)
   platforms:
   - Atari
+
+- name: Jawbreaker (Windows Mobile)
+  names:
+  - Bubble Breaker
+  - Bubblet
+  - Bubblets
+  external:
+    website: 'https://www.oopdreams.com/win/bubblets/'
+    wikipedia: Jawbreaker (Windows Mobile game)
+  platforms:
+  - iOS
+  - Windows
   meta:
     genres:
     - Puzzle

@@ -2765,7 +2765,7 @@
 
 - name: Pop'em
   originals:
-  - Jawbreaker
+  - Jawbreaker (Windows Mobile)
   type: clone
   repo: 'https://www.allegro.cc/depot/POPEM'
   url: >-
