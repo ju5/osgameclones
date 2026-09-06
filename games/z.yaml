@@ -583,13 +583,20 @@
   originals:
   - Silencer
   repo: https://github.com/zsilencer/zSILENCER
+  url: https://web.archive.org/web/20250512031738/https://zsilencer.com/
   status: playable
   platforms:
   - Linux
   - OSX
   - Windows
   type: remake
-  updated: 2013-09-22
+  added: 2013-09-22
+  updated: 2026-09-06
+  images:
+  - https://web.archive.org/web/20250215040002im_/https://zsilencer.com/ss01.png
+  - https://web.archive.org/web/20250215040002im_/https://zsilencer.com/ss02.png
+  - https://web.archive.org/web/20250215040001im_/https://zsilencer.com/ss03.png
+  - https://web.archive.org/web/20250215040002im_/https://zsilencer.com/ss04.png
   video:
     youtube: Tm3vrEoI1Ew
 
