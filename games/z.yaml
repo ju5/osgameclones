@@ -193,6 +193,8 @@
   - Z
   type: remake
   repo: https://sourceforge.net/projects/zedonline/
+  url: https://web.archive.org/web/20240620060652/https://zzone.lewe.com/zed-online-game/
+  feed: https://sourceforge.net/p/zedonline/code/feed.atom
   development: halted
   status: playable
   platforms:
@@ -206,11 +208,14 @@
   licenses:
   - GPL3
   added: 2019-09-17
-  updated: 2024-06-08
+  updated: 2026-09-06
   images:
-  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%288%29.png/245/183/1
-  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2842%29.png/245/183/1
-  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2811%29.png/245/183/1
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%288%29.png
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2842%29.png
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2811%29.png
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2837%29.png
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2814%29.png
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2832%29.png
   video:
     youtube: RKmKpTe-gVo
 
