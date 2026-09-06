@@ -330,6 +330,7 @@
   - Legend of Zelda
   type: remake
   repo: https://github.com/ZeldaClassic/ZeldaClassic-2.53
+  url: https://web.archive.org/web/20260521110844/https://www.zeldaclassic.com/
   development: sporadic
   status: playable
   platforms:
@@ -345,8 +346,8 @@
   info: >-
     Zelda Classic is a game and editing tool that lets you create custom Legend of
     Zelda quests.
-  added: '2019-11-19'
-  updated: 2024-06-09
+  added: 2019-11-19
+  updated: 2026-09-06
   images:
   - https://github.com/ZeldaClassic/ZeldaClassic-2.53/blob/main/screenshots/demo.png?raw=true
   - https://github.com/ZeldaClassic/ZeldaClassic-2.53/blob/main/screenshots/lost1.png?raw=true
