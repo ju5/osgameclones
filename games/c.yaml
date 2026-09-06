@@ -3838,7 +3838,7 @@
 - name: CraPong!
   originals:
   - Pong
-  type: clone
+  type: similar
   url: 'https://www.ticalc.org/archives/files/fileinfo/73/7382.html'
   development: complete
   status: playable
